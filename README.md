@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Firewall Logs Repository
 
 This repository contains firewall log data structured for use in machine learning models such as K-Nearest Neighbors (KNN) or Support Vector Machines (SVM). The repository is categorized into three datasets based on the size of the data:
@@ -24,3 +25,8 @@ Each log entry in the datasets is structured with the following columns:
 14. **Column 17**: The duration of the connection or session.
 
 This format ensures that the data is ready for preprocessing and feature extraction, making it suitable for training and testing machine learning models.
+=======
+# KN9CUP_firewall_logs
+DemoTest
+test
+>>>>>>> cf72a4c4d43bb668a4d8f455d830065879a70416
